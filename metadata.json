@@ -1,0 +1,6 @@
+{
+  "name": "Block Blast Arena (بلاک بلست رقابتی)",
+  "description": "یک بازی پازل بلاک جذاب و هیجان‌انگیز شبیه بلاک بلست همراه با مراحل متنوع، مود‌های داستانی، چالش‌های روزانه، تم‌های زیبا و دوئل آنلاین رقابتی.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
